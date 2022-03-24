@@ -1,0 +1,63 @@
+## Alternatives of FAANG
+
+
+- Microsoft
+- Sprinklr
+- Salesforce
+-Uber
+-LinkedIn
+-Indeed
+-Atlassian
+-Twilio
+-Twitter
+-Zoom
+-Slack
+-Walmart
+- Target
+- Bloomberg
+- PayPal
+- Visa
+- Airbnb
+- Expedia
+- Qualcomm
+- VMware
+- Nvidia
+- Coinbase
+- Deutsche Bank
+- Tower Research Capital
+- World Quant
+- De Shaw
+- Goldman Sachs
+- Intuit
+- Morgan Stanley
+- JP Morgan
+- Wells Fargo
+- Fidelity Investments
+- American Express
+- Barclays
+- Rippling
+- Grab
+- Binance
+- Hackerrank
+- Oracle
+- Two Sigma
+- Square
+- Freshworks
+- Adobe
+- Instacart
+- Lyft
+- Pinterest
+- Roblox
+- Stripe
+- Doordash
+- Box
+- ByteDance
+- Robinhood
+- Gojek
+- Rubrik
+- Samsung
+- Intel
+- Tinder
+- Cisco
+- Nutanix
+- SAP Labs
