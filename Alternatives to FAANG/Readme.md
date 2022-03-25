@@ -4,15 +4,15 @@
 - Microsoft
 - Sprinklr
 - Salesforce
--Uber
--LinkedIn
--Indeed
--Atlassian
--Twilio
--Twitter
--Zoom
--Slack
--Walmart
+- Uber
+- LinkedIn
+- Indeed
+- Atlassian
+- Twilio
+- Twitter
+- Zoom
+- Slack
+- Walmart
 - Target
 - Bloomberg
 - PayPal
